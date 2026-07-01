@@ -1,0 +1,58 @@
+canonical_identifier: bkk:krp/KR6v0005/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0005/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 八種粗重犯墮
+  identifiers:
+    krp: KR6v0005
+    cbeta: ZW01n0004
+    cbeta_old_id: ZW01n0004
+    authorityid: CA0008366
+    json_key: ZW0004
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW01/ZW01n0004.xml
+    old_id: ZW01n0004
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0005_000-ZW.yaml, hash: 'sha256:481a2c40d880dc205e18e4151164948dd44597d9e7d0294af91a881887814e34'}
+  - {seq: 1, filename: KR6v0005_001-ZW.yaml, hash: 'sha256:42626cef3f7de0d92ab1c1a3cb8d9a41e45d6396a66bf0c07e2163e0e61a4d72'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0005_000-ZW.markers.yaml, hash: 'sha256:d4a75f6a6cd6ffb36b4086e4f427e467aef3ada4308498dfc03d206d817ff7ec'}
+  - {seq: 1, role: markers, filename: assets/KR6v0005_001-ZW.markers.yaml, hash: 'sha256:bfab5ef132a0cb72fced1260393dafb65ffc562681ec4430edff4b2437616e0a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0005_ZW_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0005_ZW_000-mulu-2
+    span:
+    - front
+    - 221
+    - 221
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0005_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 1090
+  label: 八種粗重犯墮
+  type: juan
+  level: 1
+hash: sha256:e3e11f58f39063d095114f859331164d310d1218272883da0e9f2841f848ce45
