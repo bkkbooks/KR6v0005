@@ -21,11 +21,11 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0005_000.yaml, hash: 'sha256:18804e7bdbe2c18f6beb0c352246af150322d3b89e7e2fff55ded8ca6402d8ed'}
-  - {seq: 1, filename: KR6v0005_001.yaml, hash: 'sha256:57d358e88daebf5e5dba0b48094e54822d743cf5df0eefc06d9075951b17c174'}
+  - {seq: 0, filename: KR6v0005_000.yaml, hash: 'sha256:481a2c40d880dc205e18e4151164948dd44597d9e7d0294af91a881887814e34'}
+  - {seq: 1, filename: KR6v0005_001.yaml, hash: 'sha256:42626cef3f7de0d92ab1c1a3cb8d9a41e45d6396a66bf0c07e2163e0e61a4d72'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0005_000.markers.yaml, hash: 'sha256:fafd355e36d0f04774cb28a3a72517dffa2fca15236d53b92f1a7f7c6822d5c1'}
-  - {seq: 1, role: markers, filename: assets/KR6v0005_001.markers.yaml, hash: 'sha256:c9634d5bfbdd0eeee7c7e3affd9724c241a41c0a994fdb8b54d686890fab269c'}
+  - {seq: 0, role: markers, filename: assets/KR6v0005_000.markers.yaml, hash: 'sha256:605432226140916105e7b21c6de85d329fa990fd5f4d5f0f0118b3ced32f3374'}
+  - {seq: 1, role: markers, filename: assets/KR6v0005_001.markers.yaml, hash: 'sha256:81034fc0ae5a8bc7bb344f2fffbcce909f022f6889d2af57f3b35cbda9151929'}
 table_of_contents:
 - ref:
     seq: 0
@@ -57,7 +57,4 @@ table_of_contents:
   label: 八種粗重犯墮
   type: juan
   level: 1
-hash: sha256:11510a72fa3b360cf6bec8c93c6bb8b7742c4f1e734dbca6805983bc9f76a5c1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:659aaa9430a63ac778110ddc1b8e969a61e47f0e44e432b71cab3f9b116cdfea
