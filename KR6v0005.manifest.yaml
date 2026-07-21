@@ -21,17 +21,17 @@ editions:
 - short: ZW
 assets:
   parts:
-  - {seq: 0, filename: KR6v0005_000.yaml, hash: 'sha256:cdab965542dcb496af6e10e2ef37b3f75dc4fcae8857792e4d46ad0c45bca299'}
+  - {seq: 0, filename: KR6v0005_000.yaml, hash: 'sha256:e976a97af1c86f985806aaafd75e3c0237793998452a5a839d046412b9fab2ec'}
   - {seq: 1, filename: KR6v0005_001.yaml, hash: 'sha256:17f46724d038f25d5497760602f531a6fdd039fd2c25c464de3592b15de12df6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0005_000.markers.yaml, hash: 'sha256:1f2fa259a49d3fb0ce2228d67bb958121bc0b5f422f4d3ec00cbeece48c1e2a8'}
+  - {seq: 0, role: markers, filename: assets/KR6v0005_000.markers.yaml, hash: 'sha256:8785c1927a1d2a7c8082541d4bcc4a871220f406bb230b41bd124fba152dd3f8'}
   - {seq: 1, role: markers, filename: assets/KR6v0005_001.markers.yaml, hash: 'sha256:989d5e5b9728d8c98b76280f7760e6e58840ce92041c3e080e89cc827f7655a0'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0005_ZW_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 題解
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0005_ZW_000-mulu-2
     span:
-    - front
+    - body
     - 221
     - 221
   label: 錄文
@@ -57,7 +57,7 @@ table_of_contents:
   label: 八種粗重犯墮
   type: juan
   level: 1
-hash: sha256:3be913837b461c7475426955972b0ded7578f2261f59352fd12995a88a3eae08
+hash: sha256:826683e78ef7ac3965fd85d69169a11295feee4438ea35b4c6d574a57db27121
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

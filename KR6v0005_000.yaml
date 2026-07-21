@@ -1,14 +1,11 @@
 canonical_identifier: bkk:krp/KR6v0005/zw/v1/juan/0
 seq: 0
-front:
+body:
   text: 八種粗重犯墮整理者方廣錩題解八種粗重犯墮印度佛教密教典籍作者不詳託名為馬鳴菩薩造譯者不詳一卷本典籍所述為密教戒律共計八條故名本典籍未為我國歷代經録所著録亦不為歷代大藏經所收現藏於俄羅斯科學院東方研究所聖彼得堡分所編號為被視為敦煌遺書但從種種迹象分析該典籍並非敦煌遺書應為在西夏故地黑城出土的西夏文獻本文獻對研究西夏佛教具有相當的參考價值整理者年在聖彼得堡考察時曾據原卷録文整理本據上述録文及上海古籍出版社俄藏敦煌文獻第四册發表的照片録文無校本録文
   hash: sha256:80987ce64cba98591987a4570e99aa93d524e1789050ec92a30bc179c9d4e1ae
   markers:
   - {type: 其他, offset: 0, content: 題解, id: KR6v0005_ZW_000-mulu-1, level: '1'}
   - {type: 其他, offset: 221, content: 錄文, id: KR6v0005_ZW_000-mulu-2, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 八種粗重犯墮
   edition:
@@ -17,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/ZW/ZW01/ZW01n0004.xml
     old_id: ZW01n0004
-hash: sha256:cdab965542dcb496af6e10e2ef37b3f75dc4fcae8857792e4d46ad0c45bca299
+hash: sha256:e976a97af1c86f985806aaafd75e3c0237793998452a5a839d046412b9fab2ec
